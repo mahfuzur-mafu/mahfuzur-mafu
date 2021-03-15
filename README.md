@@ -13,11 +13,12 @@ I am currently studying in the Department of Computer Science and Engineering at
 - 🌱 I’m currently learning ... Web Application
 - 👯 I’m looking to collaborate on ... Smart Web app
 - 🤔 I’m looking for help with ... Java & spring framework
+<!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzur-mafu" />
 
