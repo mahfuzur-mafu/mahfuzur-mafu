@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src ="https://github-readme-stats.vercel.app/api?username=mahfuzur-mafu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<imng src ="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzur-mafu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+<a href="https://github.com/mahfuzur-mafu/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mahfuzur-mafu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+</a>
+
+<a href="https://github.com/mahfuzur-mafu/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzur-mafu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+</a>
