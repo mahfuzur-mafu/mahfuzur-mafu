@@ -20,6 +20,6 @@ I am currently studying in the Department of Computer Science and Engineering at
 - ⚡ Fun fact: ...
 -->
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzur-mafu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzur-mafu" />
 
 
