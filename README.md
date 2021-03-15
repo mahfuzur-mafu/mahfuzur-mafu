@@ -1,5 +1,5 @@
-### Hi Everyone And Welcome, I am Md Mahfuzur!
-
+### Hi Everyone And Welcome, I am Md Mahfuzur! 👊
+I am currently studying in the Department of Computer Science and Engineering at Daffodil International University
 <!--
 **mahfuzur-mafu/mahfuzur-mafu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
