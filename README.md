@@ -1,5 +1,9 @@
 ### Hi Everyone And Welcome, I am Md Mahfuzur! 👊
 I am currently studying in the Department of Computer Science and Engineering at Daffodil International University
+ 
+[Linkedin](https://www.linkedin.com/in/md-mahfuzur-rahman-2a9807190)  
+  [Facebook](https://www.facebook.com/mahfuzur.mafu)  
+  [GSite](https://sites.google.com/diu.edu.bd/md-mahfuzur-rahman)
 <!--
 **mahfuzur-mafu/mahfuzur-mafu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,3 +29,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/mahfuzur-mafu/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzur-mafu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
+
