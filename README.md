@@ -4,6 +4,7 @@ I am currently studying in the Department of Computer Science and Engineering at
 [Linkedin](https://www.linkedin.com/in/md-mahfuzur-rahman-2a9807190)  
   [Facebook](https://www.facebook.com/mahfuzur.mafu)  
   [GSite](https://sites.google.com/diu.edu.bd/md-mahfuzur-rahman)
+    <br> <img src="https://komarev.com/ghpvc/?username=mahfuzur-mafu">
 <!--
 **mahfuzur-mafu/mahfuzur-mafu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
