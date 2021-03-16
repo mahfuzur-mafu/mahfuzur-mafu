@@ -2,7 +2,8 @@
 I am currently studying in the Department of Computer Science and Engineering at Daffodil International University
  
 [Linkedin](https://www.linkedin.com/in/md-mahfuzur-rahman-2a9807190)  
-  [Facebook](https://www.facebook.com/mahfuzur.mafu)  
+  [Facebook](https://www.facebook.com/mahfuzur.mafu)
+  <br> [Twitter](https://twitter.com/mahfuzurmafu)  
   [GSite](https://sites.google.com/diu.edu.bd/md-mahfuzur-rahman)
     <br> <img src="https://komarev.com/ghpvc/?username=mahfuzur-mafu">
 <!--
