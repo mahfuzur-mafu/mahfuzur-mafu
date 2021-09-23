@@ -33,6 +33,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzur-mafu&show_icons=true&locale=en&layout=compact" alt="mahfuzur-mafu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuzur-mafu&show_icons=true&locale=en" alt="mahfuzur-mafu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzur-mafu&" alt="mahfuzur-mafu" /></p>
