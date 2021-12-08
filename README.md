@@ -12,7 +12,7 @@
 - 📫 How to reach me **mail.mahfuzur01@gmail.com**
 - 
 - 📫 Social Media https://linktr.ee/mahfuzurmafu
-- 
+
 - 📄 Know about my experiences [Google Sites](https://sites.google.com/diu.edu.bd/md-mahfuzur-rahman)
 
 - ⚡ Fun fact **I like video games**
