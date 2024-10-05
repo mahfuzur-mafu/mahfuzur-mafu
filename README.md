@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Mahfuzur Rahman 👊</h1>
 
 
-<h3 align="center">I am currently studying in the Department of Computer Science and Engineering at Daffodil International University</h3>
+<h3 align="center">I am currently studying in Master's in Data Science at University Of Helsinki</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzur-mafu&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzur-mafu" /> </p>
 
