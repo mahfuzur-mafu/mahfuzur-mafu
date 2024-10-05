@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/mahfuzurmafu" target="blank"><img src="https://img.shields.io/twitter/follow/mahfuzurmafu?logo=twitter&style=for-the-badge" alt="mahfuzurmafu" /></a> </p>
 
-- 🌱 I’m currently learning **Android **
 
 - 📫 How to reach me **mail.mahfuzur01@gmail.com**
 
