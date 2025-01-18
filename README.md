@@ -12,7 +12,7 @@
 
 - 📫 Social Media https://linktr.ee/mahfuzurmafu
 
-- 📄 Know about my experiences [Google Sites](https://sites.google.com/diu.edu.bd/md-mahfuzur-rahman)
+- 📄 Know about my experiences [Portfolio](https://mahfuzur-mafu.github.io/)
 
 - ⚡ Fun fact **I like video games**
 
