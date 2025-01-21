@@ -14,7 +14,6 @@
 
 - 📄 Know about my experiences [Portfolio](https://mahfuzur-mafu.github.io/)
 
-- ⚡ Fun fact **I like video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
