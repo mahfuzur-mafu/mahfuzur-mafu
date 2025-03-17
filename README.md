@@ -15,6 +15,12 @@
 - 📄 Know about my experiences [Portfolio](https://mahfuzur-mafu.github.io/)
 
 
+
+<a href="https://github.com/roslinmahmud?tab=repositories">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzur-mafu&layout=compact&langs_count=8&theme=transparent" />
+</a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mahfuzurmafu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahfuzurmafu" height="30" width="40" /></a>
