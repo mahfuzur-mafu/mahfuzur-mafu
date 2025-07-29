@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Md. Mahfuzur Rahman 👊</h1>
+<h1 align=>Hei 👋, I'm Md. Mahfuzur Rahman 👊</h1>
 
 
-<h3 align="center">I am currently studying in Master's in Data Science at University Of Helsinki</h3>
+<h4 align=>
+I’m originally from Bangladesh 🇧🇩 and currently pursuing my Master’s in Data Science at the University of Helsinki 🇫🇮.
+🔍 I am passionate about leveraging data to drive actionable insights and solve complex problems. With a strong academic foundation and hands-on project experience, I’m dedicated to exploring innovative solutions in data analysis, machine learning, and interactive visualization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzur-mafu&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzur-mafu" /> </p>
 
