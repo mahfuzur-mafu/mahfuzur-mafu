@@ -5,7 +5,7 @@
 I’m originally from Bangladesh 🇧🇩 and currently pursuing my Master’s in Data Science at the University of Helsinki 🇫🇮.
 🔍 I am passionate about leveraging data to drive actionable insights and solve complex problems. With a strong academic foundation and hands-on project experience, I’m dedicated to exploring innovative solutions in data analysis, machine learning, and interactive visualization.
 
-  💼 I’m actively seeking a data science or machine learning internship for 2025 to kick-start my career in building interpretable, real-world AI solutions that drive impact in energy, sustainability, and smart systems. If you're willing to believe in potential, I’m ready to give it everything I’ve got.</h3>
+  💼 I’m seeking a data science or machine learning internship for 2026 to kick-start my career in the industry, real-world AI solutions that drive impact in energy, sustainability, and smart systems. If you're willing to believe in potential, I’m ready to give it everything I’ve got.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzur-mafu&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzur-mafu" /> </p>
 
