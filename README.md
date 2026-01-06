@@ -2,7 +2,7 @@
 
 
 
-I’m originally from Bangladesh 🇧🇩 and currently pursuing my Master’s in Data Science at the University of Helsinki 🇫🇮.
+I’m originally from Bangladesh 🇧🇩 and currently pursuing my Master’s in Data Science at the University of Helsinki 🇫🇮.I am also working as a Research Assistant at the University of Helsinki in the Complex Systems Computation research group
 🔍 I am passionate about leveraging data to drive actionable insights and solve complex problems. With a strong academic foundation and hands-on project experience, I’m dedicated to exploring innovative solutions in data analysis, machine learning, and interactive visualization.
 
   💼 I’m seeking a data science or machine learning internship for 2026 to kick-start my career in the industry, real-world AI solutions that drive impact in energy, sustainability, and smart systems. If you're willing to believe in potential, I’m ready to give it everything I’ve got.</h3>
