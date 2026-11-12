@@ -77,6 +77,4 @@ I'm passionate about turning research and ideas into real-world solutions. My in
 <hr />
 
 ### 📫 Connect With Me
-🌐 **Portfolio:** [mahfuzur-mafu.github.io](https://mahfuzur-mafu.github.io/)  
-💼 **LinkedIn:** [linkedin.com/in/mahfuzurmafu](https://www.linkedin.com/in/mahfuzurmafu/)  
 🔗 **Other links:** [linktr.ee/mahfuzurmafu](https://linktr.ee/mahfuzurmafu)
